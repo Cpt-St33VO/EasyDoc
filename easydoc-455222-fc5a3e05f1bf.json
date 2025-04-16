@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "easydoc-455222",
+  "private_key_id": "fc5a3e05f1bff55886a1fd1ece0bde35d814b792",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3fQcGq4wEAg7K\nO0m73rCWmeyMs+jpKm/Rrllvr75C45vKf8RVCjk/hqOqo/8nFR+NYBrqGvQbxj4K\nYIOl3yj4WrT4D62GWJ2FTExF1NCU1IafnTOFPiBzEdmq9vqya8mHgjru0f2siWB7\nSmvatEv4De0zvTwaftRZTox7az5g7kSFppKlSB/JLnt7TzWT9k75he11AgMOrlL9\n4aIMDdBsVYEeRnVgTzSnyhtiml1ZSLJJx2J0oNkRy7nw6/+1CSSg6zi9SaFly5MQ\n5rMjKqKIYEFkFLZVHjB4RV7hBtsZ197rTA3kmGEwaewXTalB0EPiDze3kZtHygBQ\ngydDIRBdAgMBAAECggEAGJUpVxEuH85XxWvWh9NAtNiX6sziuDRdiUnSxSYWNzdv\nxJxEBUGqpFJpRIAWu9l2YfY9fN5SFJOFddXy5Url3gonAzH0hVKDfhuX/2YQ8NOd\nWq6Qu7n0Vn5Oe3t94GAU/rDprNvY4OAB21q/4uvzXp8dB6jDb+hMkk91/kYCtDEV\ngI7bg3W2FZnvdc6BC8SMJdSyvQHvozuPpZVH/rlpDHmmfLSzpOoJJgWoGTQFtxoF\nqcajW+C6mQqUSyhOZpY2Z0Zdk4cjLrLor2CL6a2J8A4dMJyTVr8A3Q7zAzMSzSo0\nZkOeVTuVHZjZMrZ0Q2wSeqti4XZ1tRJGN6T0MVK84QKBgQDv9OJ5IQ2rD0m7bAed\npLi/24UPD9OdbHiu+nmXByWaqAuW1zKEEFjPrNkpzLWxRiZJTGQXNqBLbBuc0DxO\nkdDj+wgiKsH9Z00b4trIocCn4s8GPFSmz70+TBuWu8p2yTirg4KUefBAhjunZTxU\nGwqYHgStC/ZTZOk06VVagFxLIQKBgQDDwaD8blygO53pwOTUpuh7uXgyQ8cOLnmU\nFvjwxWDOqnyiOq5SkxUZ/uejqXfc8cepGms2lZ8oQWRqBUihPkJKNi5nQiWYpHp5\neZG+FEw6nO9+YhswsudU6J7mmio4WtOQUCImha4LIKiZiewZxVf+tWMCAvxJSsjZ\nSKlrkxt5vQKBgFijfDlEhXkIB7ONH28TVw/ANnGu5fvEAvyYF+w7Pp/XrZhF3Co+\no5/reLjhHsjiYeg3qM2OZz4VLEoL/gsEAEcHByUf6FMEIs7HSQxN/A3IUbM6/AY2\nvPBTSumuawbgI+fvh3/zX1VmgIjAc72Z05sHk7Cct5xsrVzXSKlKu00hAoGBAJES\n2bTaMUkKhaArtSqnu5mdvSc7NbUb2jxWvgzpqjHfBVjRNkm5+SR31cFjoZIbmQWI\nr7YXMomJ1NoBqm7dDhGjj8Y0rlouYxnNb6Y3srqpfY/jMxVnMKurbb+mtu1m2m2U\nBYsY/QAAJxMKtO/wYaNBV+uwvLmwc6McB3rS3cTdAoGBAMD+x2YliTGGfrKj5B3l\nsUrMgts/HRpv/km7QwZk77EQgWxKOg9lA5kff4dHE4vAGzfTqomMrfG3FWeGjoFI\nOdNMVgyT8KaBx9zmLcTrop2la58BwxFy0LEjvdLRZmGzXqHT2y9BesQ4FboQIvkt\nQRK4AhDTTj8SI0Q4hpk33Ulv\n-----END PRIVATE KEY-----\n",
+  "client_email": "easydoc-service@easydoc-455222.iam.gserviceaccount.com",
+  "client_id": "116434054103416710968",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/easydoc-service%40easydoc-455222.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
